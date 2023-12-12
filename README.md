@@ -3,4 +3,4 @@ This is the repository that stores any files used for the development of Incomin
 
 
 
-[Wiki](https://github.com/FilemakerCOM/Incoming-Applications/wiki)
+[Documents](https://github.com/FilemakerCOM/Incoming-Applications/wiki)
